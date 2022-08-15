@@ -1,0 +1,11 @@
+command:    psql -h csce-315-db.engr.tamu.edu -U csce315907_37user csce315907_37db
+password:   password
+
+javac *.java
+java -cp ".;postgresql-42.2.8.jar" Queries
+
+
+
+Some Commands:
+
+INSERT INTO teammembers VALUES ('Justin', 907, 'Justin - The Reckonning', '2022-4-1');

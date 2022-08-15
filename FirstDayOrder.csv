@@ -1,0 +1,62 @@
+,Initial order ,,,,Date,2/12/2022,,,,,,,,,,
+Type,Description,SKU,Quantity,delivered,sold by,delivered by,quantity Multiplyer,invenquant,stored by,expiration date,storage location,price,Extended,category,Invoice line #,Detailed description
+Food,,,,,,,,,,,,,,,,
+Food,Chicken breast,c1001,21,21,lb,case,20,420,lb,3/20/2022,fridge,3.90,1638.00,Cold,1,"raw unbreaded chicken breast, fresh, 20 lb cases 6 oz breast, cut to 1.5 oz per strip"
+Food,flour,d2001,5,5,each,bag,1,250,lb,6/14/2024,pantry,19.50,97.50,Dry,2,"AP flour, 50 lb sack"
+Food,salt,d2002,1,1,each,bag,1,150,lb,4/3/2026,pantry,25.95,25.95,Dry,3,"bulk sea salt, 50 lb bag"
+Food,black pepper,d2003,2,2,each,container,1,10,lb,5/8/2026,pantry,30.00,60.00,Dry,4,5 lb plastic jar
+Food,Fries,f3002,30,30,case,case,1,900,lb,4/6/2022,freezer,30.90,927.00,Frozen,5,"30 lb case,  oz per serving"
+Food,Thick bread,d2004,9,9,Case,case,1,1530,slice,3/14/2022,pantry,37.99,341.91,Dry,6,170 slices per case.
+Food,Potato Salad,c1002,10,10,each,each,1,50,lb,4/12/2022,fridge,17.01,170.10,Cold,7,"Spring Glen 5lb Dutch potato saled,"
+Food,Liquid margarine,c1003,4,4,4/case,case,1,16,unit,8/3/2030,fridge,57.81,231.24,Cold,8,"Liquid margarine, 4/case"
+Food,Garlic powder,d2005,2,2,each,each,1,10,lb,6/12/2022,pantry,20.49,40.98,Dry,9,Granulated garlic 5lb
+Food,Ranch,c1004,12,12,each,each,1,12,gallon,3/27/2022,fridge,39.98,479.76,Cold,10,Ranch dressing 1 gallon
+Food,Ketchup-Lg container,d2006,3,3,6/case,case,1,18,unit,6/23/2024,pantry,29.99,89.97,Dry,11,"Red Gold fancy ketchup Jug with pump, 6/case"
+Food,Ketchup-packets,d2007,3,3,1000/case,case,1,3000,unit,4/30/2024,pantry,25.49,76.47,Dry,12,"Frenchs ketchup packets, 1000/case"
+Food,Mayo,d2008,6,6,4gal/case,case,1,30,gallon,9/12/2022,pantry,89.99,539.94,Dry,13,"Hellmanns 1 gal Mayo, 5/case"
+Food,Tea bags,d2009,4,4,24/case,case,1,96,unit,6/7/2028,pantry,29.49,117.96,Dry,14,"Lipton tea bags, 24/case"
+Food,Sugar for tea,d2010,4,4,each,bag,1,100,lb,7/25/2030,pantry,21.99,87.96,Dry,15,"sugar, 25 lb bag"
+Food,Worcestershire Sauce,d2011,1,1,4gal/case,case,1,4,gallon,6/24/2025,pantry,47.49,47.49,Dry,16,"worcestershire sauce, 4gal/case"
+Food,Sliced cheese,c1005,1,1,6blk/case,case,1,960,slice,3/29/2022,fridge,88.38,88.38,Cold,17,"American cheese slices160 slice/block, 6block"
+Food,Bacon slices,c1006,1,1,300slc/case,case,1,300,slice,4/11/2022,fridge,57.44,57.44,Cold,18,"Precooked bacon slices, 300/case"
+Food,Fryer oil,d2012,6,6,35lb bucket,bucket,1,210,lb,7/12/2030,pantry,45.68,274.08,Dry,19,"Fryer oil, 35 lb bucket"
+Bib,,,,,,,,,,,,,,,,
+Bib,Jones-Dr Jones ,d2013,2,2,each,bag in box,1,6,gallon,5/4/2030,pantry,55.99,111.98,Dry,25,Jones Dr Jones bag in box 3 gallon
+Bib,Jones-Orange&Cream,d2014,2,2,each,bag in box,1,6,gallon,5/5/2030,pantry,55.99,111.98,Dry,26,Jones Orange Cream bag in box 3 gallon
+Bib,Jones-Root beer,d2015,2,2,each,bag in box,1,6,gallon,5/4/2030,pantry,55.99,111.98,Dry,27,Jones root beer bag in box 3 gallon
+Bib,Jones-Cola,d2016,2,2,each,bag in box,1,6,gallon,5/5/2030,pantry,55.99,111.98,Dry,28,Jones cola bag in box 3 gallon
+Bib,Jones-Lemon Lime,d2017,2,2,each,bag in box,1,6,gallon,5/7/2030,pantry,55.99,111.98,Dry,29,Jones lemon lime bag in box 3 gallon
+Bib,Jones-Sugar Free Cola,d2018,2,2,each,bag in box,1,6,gallon,5/2/2030,pantry,55.99,111.98,Dry,30,Jones sugar free cola bag in box 3 gallon
+Bottles,,,,,,,,,,,,,,,,
+Bottles,Bottled Root Beer,d2019,4,4,24/case,case,1,96,bottle,5/4/2030,pantry,39.99,159.96,Dry,31,Jones 12oz Root Beer Soda 24/case
+Bottles,Bottled Cream Soda,d2020,4,4,24/case,case,1,96,bottle,5/4/2030,pantry,39.99,159.96,Dry,32,Jones 12oz Cream Soda 24/case
+Bottles,Bottled Orange & Cream,d2021,4,4,24/case,case,1,96,bottle,5/5/2030,pantry,39.99,159.96,Dry,33,Jones 12oz Orange Cream Soda 24/case
+Bottles,Bottled Berry Lemonade,d2022,4,4,24/case,case,1,96,bottle,5/4/2030,pantry,39.99,159.96,Dry,34,Jones 12oz Berry Lemonade Soda 24/case
+Serving,,,,,,,,,,,,,,,,
+Serving,Straw,d2023,3,3,800/Pack,Pack,1,2400,unit,null,shelf,19.99,59.97,Dry,36,7 3/4 inch black wrapped straw 800/pack
+Serving,Drink lid,d2024,2,2,1000/case,case,1,2000,unit,null,shelf,29.99,59.98,Dry,37,Clear flat lid with straw slot 1000/case
+Serving,10oz Cup,d2025,1,1,1000/case,case,1,1000,unit,null,shelf,55.99,55.99,Dry,38,10 oz clear cup 1000/case
+Serving,16 oz Cup,d2026,2,2,1000/case,case,1,2000,unit,null,shelf,68.49,136.98,Dry,39,16 oz clear cup 1000/case
+Serving,Napkin,d2027,1,1,6000/case,case,1,6000,unit,null,shelf,36.49,36.49,Dry,40,6.5x8.5 dispenser napkin 6000/case
+Serving,Cutlery pack,d2028,4,4,500/case,case,1,2000,unit,null,shelf,34.49,137.96,Dry,41,Cutlery pack with napkin salt pepper
+Serving,Basket liners,d2029,1,1,6000/case,case,1,6000,unit,null,shelf,82.49,82.49,Dry,42,"Basket liners, 6000/case"
+Serving,2oz clear cup,d2030,1,1,2500/case,case,1,2500,unit,null,shelf,40.99,40.99,Dry,43,Sauce cup
+Serving,2oz lid,d2031,1,1,2500/case,case,1,2500,unit,null,shelf,47.99,47.99,Dry,44,Sauce lid
+Serving,5.5 oz clear cup,d2032,1,1,2500/case,case,1,2500,unit,null,shelf,88.49,88.49,Dry,45,Potato salad cup
+Serving,5.5 oz lid,d2033,1,1,2500/case,pack,1,2500,unit,null,shelf,48.49,48.49,Dry,46,Potato salad lid
+Serving,Hinged lid box sm,d2034,3,3,450/case,case,1,1350,unit,null,shelf,67.97,203.91,Dry,47,"Small togo box, 450/case"
+Serving,Hinged lid box lg,d2035,5,5,200/case,case,1,1000,unit,null,shelf,56.62,283.10,Dry,48,"Large togo box, 200/case"
+Janitorial,,,,,,,,,,,,,,,,
+Janitorial,Hand soap,d2037,3,3,8/case,case,1,288,oz,null,utility closet,56.70,170.10,Dry,50,Liquid hand soap in counter dispenser 12oz
+Janitorial,Hand sanitizer,d2038,2,2,4/case,case,1,8,unit,null,utility closet,88.88,177.76,Dry,51,"Liter hand sanitizer, 4/case"
+Janitorial,Dish soap,d2039,1,1,12/case,case,1,384,oz,null,utility closet,27.99,27.99,Dry,52,"Liquid dish soap 32oz, 12/case"
+Janitorial,Paper towels,d2040,2,2,6roll/case,case,1,12,unit,null,utility closet,23.99,47.98,Dry,53,"Kraft roll paper towel 800ft/roll, 6roll/case"
+Janitorial,gloves,d2041,4,4,1000/case,case,1,2000,pair,null,utility closet,7.99,31.96,Dry,54,"Food service glove, 100/box, 10box/case"
+Janitorial,trash can liners-small,d2042,1,1,1000/case,case,1,1000,unit,null,utility closet,29.49,29.49,Dry,55,"Can liner 15 gal, 1000/case"
+Janitorial,trash can liners-lg,d2043,1,1,50/case,case,1,50,unit,null,utility closet,28.99,28.99,Dry,56,"Lg can liner 45 gal, 50/case"
+Janitorial,toilet paper,d2044,1,1,96 roll/case,case,1,96,unit,null,utility closet,72.99,72.99,Dry,57,"Toilet paper, 2ply 500sheet/roll"
+Janitorial,Surface cleaner,d2045,1,1,12/case,case,1,12,unit,null,utility closet,52.49,52.49,Dry,58,"Spray cleaner, 32oz/12/case"
+Janitorial,Floor cleaner,d2046,2,2,90/tub,tub,1,180,unit,null,utility closet,23.49,46.98,Dry,59,"Floor cleaner .5oz pack, 90pk/tub"
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,Case/invoice total,,197,,,,,,,,,,8673.41,,,
